@@ -53,6 +53,7 @@ input{
     border-radius: 10px;
     border: none;
     transition: 0.3s;
+    cursor: pointer;
 }
 
 .login-btn:hover{
